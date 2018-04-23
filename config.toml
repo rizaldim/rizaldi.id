@@ -1,4 +1,4 @@
-baseURL = "http://rizaldi.id/"
+baseURL = "https://rizaldi.id/"
 languageCode = "en-us"
 title = "Rizaldi Martaputra"
 theme = "bootstrap"
