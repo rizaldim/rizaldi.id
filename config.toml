@@ -1,7 +1,8 @@
 baseURL = "https://rizaldi.id/"
 languageCode = "en-us"
 title = "Rizaldi Martaputra"
-theme = "bootstrap"
+theme = "seadanya"
+defaultContentLanguage = "en"
 
 paginate = 5
 paginatePath = "page"
