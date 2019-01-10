@@ -1,19 +1,5 @@
-baseURL = "https://rizaldi.id/"
+baseURL = "https://rizald.im"
 languageCode = "en-us"
 title = "Rizaldi Martaputra"
-theme = "seadanya"
+theme = "tale"
 defaultContentLanguage = "en"
-
-paginate = 5
-paginatePath = "page"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-
-[params]
-  # Main sections (currently used for the recent posts in the sidebar)
-  mainSections = ["post"]
-
-  # Default author
-  author = "Rizaldi M"
